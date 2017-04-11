@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Adventure.data.unityweb",
+"asmCodeUrl": "Adventure.asm.code.unityweb",
+"asmMemoryUrl": "Adventure.asm.memory.unityweb",
+"asmFrameworkUrl": "Adventure.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
