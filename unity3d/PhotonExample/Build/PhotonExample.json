@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "PhotonExample.data.unityweb",
+"asmCodeUrl": "PhotonExample.asm.code.unityweb",
+"asmMemoryUrl": "PhotonExample.asm.memory.unityweb",
+"asmFrameworkUrl": "PhotonExample.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
